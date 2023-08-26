@@ -1,0 +1,93 @@
+body{
+    background: #0C0E10;
+}
+
+#first-section{
+    background: #0C0E10;
+}
+
+#text1{
+    padding-left: 60px;
+    font-size: 24px;
+    color: #FFF;
+    font-weight: 600;
+    line-height: normal;
+}
+#text2{
+    color: #FF2424;
+    font-size: 20px;
+    font-weight: 300;
+   font-style: normal;
+   line-height: normal;
+   font-family: Poppins;
+   margin-left: 100px;
+}
+
+#text3{
+    margin-left: 90px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#ollist>li{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50px;
+}
+
+.login{
+    background:#FF2424;
+    font-family: Poppins;
+    color: #F5F5F5;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.searching{
+    background: #272A30;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.menu{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+#plusimg{
+    margin-left: 100px;
+}
+
+#textdata{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#pri{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
